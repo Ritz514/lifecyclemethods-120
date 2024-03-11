@@ -104,7 +104,18 @@ public class MainActivity extends AppCompatActivity {
 
 
 ## OUTPUT
+![WhatsApp Image 2024-03-11 at 09 12 58_58e0792f](https://github.com/Ritz514/lifecyclemethods-120/assets/142646304/d083ca79-52d3-4894-9eab-6d6a5c768745)
 
+![WhatsApp Image 2024-03-11 at 09 12 58_416cea2a](https://github.com/Ritz514/lifecyclemethods-120/assets/142646304/9b3256ec-c11a-46f5-8bb8-c1954eef3a40)
+
+![WhatsApp Image 2024-03-11 at 09 12 58_d537cbb7](https://github.com/Ritz514/lifecyclemethods-120/assets/142646304/fec96d53-f7a6-4980-8acc-0c5f0e3ab377)
+
+![WhatsApp Image 2024-03-11 at 09 12 58_e93cd077](https://github.com/Ritz514/lifecyclemethods-120/assets/142646304/73bb46ec-479c-449e-b6d9-6fe9defa7e28)
+
+
+![WhatsApp Image 2024-03-11 at 09 12 58_8092fcd6](https://github.com/Ritz514/lifecyclemethods-120/assets/142646304/59d17f54-905d-4325-a45d-1df59695595b)
+
+![WhatsApp Image 2024-03-11 at 09 12 58_0d0042ec](https://github.com/Ritz514/lifecyclemethods-120/assets/142646304/6b7c166c-1c53-43fd-acbb-2dee10610faa)
 
 
 
